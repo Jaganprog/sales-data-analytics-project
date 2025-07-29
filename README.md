@@ -1,2 +1,5 @@
 # sales data anlytics
-The project based on sql 
+The project based on SQL ,EXCEL ,DATA VISUALIZATION USING EXCEL 
+PIVOT TABLE 
+PIVOT CHART 
+DASHBOARD USING EXCEL
